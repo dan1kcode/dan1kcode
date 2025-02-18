@@ -1,7 +1,7 @@
 # Hi there 👋
 
-**I'm Beginner Java programmer!**
-
+*I'm Beginner Java programmer!*
+>*Getting better*
 ```java
 public void routine(){
   eat();
