@@ -3,7 +3,7 @@
 **I'm Beginner Java programmer!**
 
 ```java
-public  routine(){
+public void routine(){
   eat();
   sleep();
   code();
