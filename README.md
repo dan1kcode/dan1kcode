@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dan1kcode/dan1kcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Beginner Java programmer!**
 
-Here are some ideas to get you started:
+```java
+public  routine(){
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+## My contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### ![Telegram_иконка (2)](https://github.com/user-attachments/assets/9dc9eec1-33c4-4680-80b6-9c4a8f87a9af) **[Telegram](https://t.me/mrdan1kk)** ![whatsapp-icon-1020x1024-iykox85t (1)](https://github.com/user-attachments/assets/8c7225ef-1237-440a-8e47-ef6d3be5de71) **[Whatsapp](https://wa.me/<+79187669909>)**
+
+
