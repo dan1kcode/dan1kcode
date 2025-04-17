@@ -10,14 +10,5 @@
 |![Telegram_иконка (2)](https://github.com/user-attachments/assets/9dc9eec1-33c4-4680-80b6-9c4a8f87a9af) [Telegram](https://t.me/mrdan1kk)|**10 minutes**|
  
 
-```C++
-void routine(){
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
-
 
 
