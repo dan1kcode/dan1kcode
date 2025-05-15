@@ -1,9 +1,9 @@
 # Hi there 👋
 
-*I'm Beginner С++ programmer!*
+*I'm Beginner Python programmer!*
 
 ## My hardskills:
-* **Java** & **C++** basics, **html**, **css**, ability to use **Git**
+* **Java**, **C++**, Python basics, **html**, **css**, ability to use **Git**
 ## Contact me
 |My contacts|I'll answer for...|
 |--------------|--------------|
